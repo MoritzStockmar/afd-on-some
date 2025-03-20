@@ -1,0 +1,12 @@
+# Ignores all .csv and .pkl files as can become quite large and are used for medium and long term data storage
+*.csv
+*.pkl
+
+# Ignores all video data 
+data/raw_data/videos/*
+
+# Ignores all preprocessed data
+data/preprocessed_data/*
+
+# Ignores all .DS_Store files
+**/.DS_Store

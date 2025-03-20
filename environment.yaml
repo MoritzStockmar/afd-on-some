@@ -1,0 +1,9 @@
+name: env
+depencencies:
+  - numpy
+  - pandas
+  - jupyter
+  - notebook
+  - spacy
+  - bundestagapi
+  - openai-whisper
