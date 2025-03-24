@@ -10,3 +10,5 @@ data/preprocessed_data/*
 
 # Ignores all .DS_Store files
 **/.DS_Store
+
+# @TODO: add the file structure for the data folder
