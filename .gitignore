@@ -11,4 +11,7 @@ data/preprocessed_data/*
 # Ignores all .DS_Store files
 **/.DS_Store
 
+# Ignores the 10.000 most common words file -> not provided for copyright reasons
+dictionaries/10000_most_common_words.txt
+
 # @TODO: add the file structure for the data folder

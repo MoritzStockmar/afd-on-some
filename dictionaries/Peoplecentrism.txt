@@ -1,50 +1,22 @@
-Volk
-Bürger
-Bürgerin
-Deutscher Bürger
-Deutsches Volk
-Wähler
-Wählerin
-Bevölkerung
-Deutscher Mensch
-Wir
-Uns
-Unser Leute
-Unser Bürger
-Unser Wähler
-Unser Gemeinschaft
-Volk
-Unser Nation
-Landsleute
-Mitbürger
-Mitbürgerin
-Volksgemeinschaft
-Volkssouverän
-Einfacher Mensch
-Einfache Menschen
-Normalbürger
-Normalbürgerin
-Durchschnittsbürger
-Durchschnittsbürgerin
-Steuerzahler
-Steuerzahlerin
-Arbeitnehmer
-Arbeitnehmerin
-Arbeiter
-Arbeiterin
-Angestellter
-Angestellte
-Familie
-Mittelstand
-Mittelschicht
-Da draußen
-Einfacher Leute
-Einfache Leute
-Kleiner Mann
-Klein Mann
-Die Leute auf der Straße
-Heimat
-Patriot
-Patriotin
-Deutsche Familie
-Deutsches Interesse
+volk
+wir
+uns
+bürger
+wähler
+bevölkerung
+gemeinschaft
+volk
+nation
+landsleute
+mitbürger
+normalbürger
+steuerzahler
+arbeitnehmer
+arbeiter
+angestellt
+familie
+mittelstand
+mittelschicht
+leute
+heimat
+patriot
