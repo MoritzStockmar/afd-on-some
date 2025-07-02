@@ -14,4 +14,9 @@ data/preprocessed_data/*
 # Ignores the 10.000 most common words file -> not provided for copyright reasons
 dictionaries/10000_most_common_words.txt
 
+# Ignores all .mp3 .mp4 and .webm files
+*.mp3
+*.mp4
+*.webm
+
 # @TODO: add the file structure for the data folder
